@@ -4,3 +4,6 @@
 https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php#hw
 
 github可参考：https://github.com/Fafa-DL/Lhy_Machine_Learning
+
+**workshop**  
+https://d223302.github.io/AACL2022-Pretrain-Language-Model-Tutorial/  
